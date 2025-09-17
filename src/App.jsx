@@ -1,10 +1,9 @@
-import React from 'react'
-import UserForm from './forms/UserForm'
+import FormikForm from './forms/FormikForm'
 
 const App = () => {
   return (
     <div>
-      <UserForm/>
+      <FormikForm/>
     </div>
   )
 }
